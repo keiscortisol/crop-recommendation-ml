@@ -94,12 +94,11 @@ agronomist review.
 
 ## Deliverables in this package
 
-- Source code (`train.py`, `app/app.py`)
-- Notebook (`notebook/crop_recommendation_analysis.ipynb`)
-- Dataset + citation (this README)
-- Trained model (`models/rf_crop_model.joblib` + encoder/scaler)
+- Source code 
+- Notebook 
+- Trained model 
 - `requirements.txt`
 - README (this file)
-- Streamlit application (`app/app.py`)
-- Technical paper (`report/technical_paper.docx`)
-- Presentation (`report/presentation.pptx`)
+- Streamlit application 
+- Technical paper 
+- Presentation 
